@@ -31,3 +31,4 @@ fonts:
 		qt \
 		vim \
 		wget \
+
